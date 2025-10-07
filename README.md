@@ -1,1 +1,1 @@
-# Adventure-Works-Sales-Forecasting---Power-BI
+# AdventureWorks-Sales-and-Forecasting---Power-BI
